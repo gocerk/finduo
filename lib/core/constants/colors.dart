@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class CustomColors {
-  static Color mainBlues() => Color(int.parse('0xFF0048FF'));
+  static Color mainBlue() => Color(int.parse('0xFF0048FF'));
   static Color whiteWithOpacity() => Color(int.parse('0xFFFFFFFF')).withOpacity(0.5);
   static Color mainRed() => Color(int.parse('0xFFFF0000'));
   static Color gameBoxYellow() => Color(int.parse('0xFFFFDE2A'));

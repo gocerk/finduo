@@ -1,6 +1,6 @@
 # finduo
 
-A new Flutter project.
+A new only frontend Flutter Project
 
 ## Getting Started
 
